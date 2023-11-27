@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@300&family=Poppins:wght@400;600&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+p {
+  margin: 0.5em 0; /* 0.5 sopra/sotto, 0 destra/sinistra */
+}
+
+/* BODY */
+body {
+  text-align: center;
+  font-family: "Open-Sans", sans-serif;
+}
+
+header {
+  background-color: black;
+  height: 150px;
+  margin: auto;
+}
+
+.img1 {
+  width: 200px;
+  height: 60px;
+  padding-top: 40px;
+}
+
+h1 {
+  font-family: "montserrat", sans-serif;
+  color: #25a2c3;
+  padding: 35px 50px 45px 50px;
+  font-size: 2.5rem;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: #25a2c3;
+}
+.primodiv {
+  border: 0.5px solid grey;
+  background-image: url(./immagini/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#container {
+  text-align: center;
+}
+button {
+  color: white;
+  background-color: #f04c2f;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: #c8e7f0;
+}
+
+.main {
+  color: #c8e7f0;
+}
+
+#contattaci {
+  color: white;
+}
+
+#fototonda {
+  border-radius: 4px;
+}
